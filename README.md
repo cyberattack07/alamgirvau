@@ -14,7 +14,7 @@ ____Programming And Memes____
 
 CONTACT WITH <a href="https://www.facebook.com/Tera.Papa.Alamgir.441"><b>MD.ALAMGIR </a> </br><br>
 <img src="https://www.facebook.com/Tera.Papa.Alamgir.441/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-<p>smsagor4417@gmail.com</p>  <br> <br> 
+<p>+8801712034653</p>  <br> <br> 
 
 
 <a href="https://www.facebook.com/Tera.Papa.Alamgir.441/followers">
@@ -23,7 +23,7 @@ CONTACT WITH <a href="https://www.facebook.com/Tera.Papa.Alamgir.441"><b>MD.ALAM
 <br>
   <a href="https://www.facebook.com/Tera.Papa.Alamgir.441/termux-style/stargazers/">
   <a href="https://www.facebook.com/Tera.Papa.Alamgir.441">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/fcpromax.svg"/>
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/cyberattack07/alamgirvau.svg"/>
   </a>
 <br>
   <a href="https://www.facebook.com/Tera.Papa.Alamgir.441">
@@ -38,8 +38,8 @@ CONTACT WITH <a href="https://www.facebook.com/Tera.Papa.Alamgir.441"><b>MD.ALAM
   </a>
 <br>
 <a href="https://www.facebook.com/Tera.Papa.Alamgir.441">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/fcpromax.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/fcpromax.svg"/>
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/cyberattack07/alamgirvau.svg"/> <a                                                                                                        href="[[[[[https://github.com/cyberattack07/alamgirvau.git](https://github.com/cyberattack07/alamgirvau.git)](https://github.com/cyberattack07/alamgirvau.git)](https://github.com/cyberattack07/alamgirvau.git)](https://github.com/cyberattack07/alamgirvau.git)](https://github.com/cyberattack07/alamgirvau.git)">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Alamgir-vau/alamgirvau.svg"/>
   </a>
 </div>
 
@@ -50,18 +50,21 @@ CONTACT WITH <a href="https://www.facebook.com/Tera.Papa.Alamgir.441"><b>MD.ALAM
   
 #### INSTALL TOOL ON TERMUX
 ```python
+    
+                 PLEASE CONTACK ME: +8801712034653
+                 
 $ apt update && apt upgrade
 $ apt install python
 $ pip install mechanize lolcat
 $ pip install requests bs4
 $ pip install futures
 $ apt install git
-$ git clone 
+$ git clone https://github.com/cyberattack07/alamgirvau.git
 ```
 #### RUN SCRIPT
 ```python
-$ cd 
-$ python 
+$ cd alamgirvau
+$ python alamgirvau.py
 ```
 
 
